@@ -1,0 +1,91 @@
+html {
+  font-family: Georgia, serif;
+}
+
+head, .header{
+  margin: 25px;
+  background-color: white;
+  text-align: center;
+  color: #24292b;
+}
+
+/* Nav */
+.nav {
+  text-align: center;
+  height: 100px;
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  text-align: center;
+  overflow: hidden;
+  border-style: solid;
+  border-color: #24292b;
+  border-radius: 10px;
+}
+
+.nav li {
+  float:left;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: #24292b;
+  color: #24292b;
+  text-decoration: none;
+}
+
+.nav a {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding: 45px;
+}
+
+.nav a:hover {
+  background-color: white;
+  color: #24292b ;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+}
+
+/*Electronics Body*/
+.mainBody {
+  color: #24292b;
+   margin: 25px;
+   float:centre;
+   margin-left: 18%;
+   margin-right: 18%;
+   border-style: solid;
+   border-color: #24292b;
+   border-radius: 10px;
+   padding: 45px;
+}
+
+/* Remote Controls*/
+.product {
+  color: #24292b;
+   margin: 25px;
+   float:left;
+   margin-left: 10%;
+   margin-right: 10%;
+   border-style: solid;
+   border-color: #24292b;
+   border-radius: 10px;
+   padding: 45px;
+}
+
+p1 {
+   color: #24292b;
+   font-size:13px;
+   background-color:lightblue;
+   float:left;
+   border-style: solid;
+   border-color: #24292b;
+   border-radius: 10px;
+   padding: 10px;
+}
